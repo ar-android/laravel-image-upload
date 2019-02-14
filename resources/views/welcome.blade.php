@@ -85,7 +85,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Upload Image
                 </div>
 
                 <div class="links">
